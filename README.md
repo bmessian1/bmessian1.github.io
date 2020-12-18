@@ -12,7 +12,7 @@ See the report [here](https://bmessian1.github.io/biden_transition/)
 
 This is an assignment completed in my Data Journalism course using RStudio.
 
-See the assignment [here](https://bmessian1.github.io/RHW1/)
+See the assignment [here](https://bmessian1.github.io/RHW/)
 
 ### Transition Dashboard
 
