@@ -1,39 +1,15 @@
-## Welcome to GitHub Pages
+## My Background and Interests
 
-You can use the [editor on GitHub](https://github.com/bmessian1/bmessian1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Former Intern for the Office of the U.S. Trade Representative at the White House. Experienced and highly skilled in Business, Innovation and Government. Bachelor's Degree focused in International Business and Public and Media Affairs from The George Washington University - School of Business.
 
-putting in new content
+### White House Transition Tracking
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project scraped the Biden Transition site and captured what was new, then generated a dynamic report that can be updated multiple times a day as necessary to share information on the status of the transition teams.
 
-### Markdown
+See the report [here](https://bmessian1.github.io/biden_transition/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### R Assignment
 
-```markdown
-Syntax highlighted code block
+This is an assignment completed in my Data Journalism course using RStudio.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmessian1/bmessian1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See the assignment [here](https://bmessian1.github.io/RHW1/)
